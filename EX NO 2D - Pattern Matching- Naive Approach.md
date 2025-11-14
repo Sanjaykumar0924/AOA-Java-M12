@@ -60,7 +60,7 @@ public class NaivePatternSearch {
 
         String pattern = scanner.nextLine();
 
-        // Search for pattern in the text
+       
         search(text, pattern);
 
         scanner.close();
